@@ -1,6 +1,6 @@
-# Route Planning Project
+# Route Planning Project - Finished!
 
-This repo contains the starter code for the Route Planning project.
+This repo contains the starter code for the Route Planning project of C++ nanodegree offered by Udacity - my very first course project! Finished A* algrithom in RoutePlanner.cpp. The following is the orinigal project description. 
 
 <img src="map.png" width="600" height="450" />
 
